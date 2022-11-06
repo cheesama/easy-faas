@@ -1,0 +1,8 @@
+apiVersion: easy-faas.serverless/v1
+kind: Function
+metadata:
+  name: test-cr
+spec:
+  language: "python"
+  code: "print('test')"
+  replicas: 1
