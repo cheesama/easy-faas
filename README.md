@@ -1,4 +1,7 @@
 # easy-faas
+Build Functions easily using kubernetes operator pattern
+![image](https://user-images.githubusercontent.com/23301850/200162844-68bfd46f-01c8-45c3-af45-8eeae3fdd84f.png)
+
 
 ## Entire Architecture
 ```mermaid
